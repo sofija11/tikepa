@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rss version="2.0">
+ <channel>
+ <item>
+<title>Welcome to Tikepa</title>
+<description>Injoy in sneakers</description>
+<link>home.html</link>
+</item>
+<item>
+<title>Look at some of us products</title>
+<description>Galery</description>
+<link>products.html</link>
+</item>
+</channel>
+</rss>
